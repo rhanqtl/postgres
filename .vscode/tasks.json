@@ -1,0 +1,45 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        // {
+        //     "type": "shell",
+        //     "label": "create build directory",
+        //     "command": "mkdir",
+        //     "args": [
+        //         "-p",
+        //         "${workspaceFolder}/output/build"
+        //     ]
+        // },
+        // {
+        //     "type": "shell",
+        //     "label": "create pgsql directory",
+        //     "command": "mkdir",
+        //     "args": [
+        //         "-p",
+        //         "${workspaceFolder}/output/pgsql"
+        //     ]
+        // },
+        // {
+        //     "type": "shell",
+        //     "label": "configure",
+        //     "command": "${workspaceFolder}/configure",
+        //     "args": [
+        //         "--prefix=${workspaceFolder}/output/pgsql",
+        //         "CFLAGS='-O0 -ggdb'",
+        //         "CXXFLAGS='-O0 -ggdb'",
+        //     ],
+        //     "options": {
+        //         "cwd": "${workspaceFolder}/output/build"
+        //     }
+        // },
+        // {
+        //     "type": "shell",
+        //     "label": "build project",
+        //     "command": "make",
+        //     "args": [],
+        //     "options": {
+        //         "cwd": "${workspaceFolder}/output/build"
+        //     }
+        // }
+    ]
+}
